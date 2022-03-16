@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/literature12/static/css/main.48e66d5f.css",
+    "main.js": "/literature12/static/js/main.3c87c642.js",
+    "static/js/787.ca846adf.chunk.js": "/literature12/static/js/787.ca846adf.chunk.js",
+    "index.html": "/literature12/index.html",
+    "main.48e66d5f.css.map": "/literature12/static/css/main.48e66d5f.css.map",
+    "main.3c87c642.js.map": "/literature12/static/js/main.3c87c642.js.map",
+    "787.ca846adf.chunk.js.map": "/literature12/static/js/787.ca846adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e66d5f.css",
+    "static/js/main.3c87c642.js"
+  ]
+}
